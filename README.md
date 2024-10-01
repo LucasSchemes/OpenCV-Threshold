@@ -1,0 +1,2 @@
+-I used opencv to detect black circles on paper, showing the coordinates of their centers and drawing a triangle with them, calculating its area, depending on the proximity of the paper to the webcam.
+-Otsu threshold was the main thing to make it work
