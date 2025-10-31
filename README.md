@@ -41,8 +41,8 @@ O programa exibe duas janelas:
 Clone este repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/LucasSchemes/DeteccaoCirculos-OpenCV.git
+cd DeteccaoCirculos-OpenCV
 pip install opencv-python numpy
 ```
 
